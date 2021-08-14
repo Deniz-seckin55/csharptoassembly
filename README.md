@@ -10,17 +10,17 @@ This is not a program! This is a library (.dll) for C#.
 
 # Functions
   1. Write(string):
-  	2.  Print the paramater string to screen without a newline character at the end
+  2.  Print the paramater string to screen without a newline character at the end
   3. WriteLine(string):
-  	4.   Print the paramater string to screen with a newline character at the end
+  4.   Print the paramater string to screen with a newline character at the end
   5. ReadLine(int):
-  	6.   !! CURRENTLY WOKING ON IT !!
+  6.   !! CURRENTLY WOKING ON IT !!
   7. ReadKey():
-  	8.   !! CURRENTLY WOKING ON IT !!
+  8.   !! CURRENTLY WOKING ON IT !!
   9. WriteVariable(string)
-  	10.   Print the variable that's name is parameter string
+  10.   Print the variable that's name is parameter string
   11. WriteLineVariable(string)
-  	12.   Print the variable that's name is parameter string and put a newline character at the end
+  12.   Print the variable that's name is parameter string and put a newline character at the end
 
 # Assembly.Manual Functions
   1. AppendCode(assembly, code):
