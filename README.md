@@ -9,23 +9,21 @@ This is not a program! This is a library (.dll) for C#.
   2. Now, you can use the functions inside the variable
 
 # Functions
-  Write(string):
-    Print the paramater string to screen without a newline character at the end
-  WriteLine(string):
-    Print the paramater string to screen with a newline character at the end
-  ReadLine(int):
-    !! CURRENTLY WOKING ON IT !!
-  ReadKey():
-    !! CURRENTLY WOKING ON IT !!
-  WriteVariable(string)
-    Print the variable that's name is parameter string
-  WriteLineVariable(string)
-    Print the variable that's name is parameter string and put a newline character at the end
+  1. Write(string):
+  2.  Print the paramater string to screen without a newline character at the end
+  3. WriteLine(string):
+  4.   Print the paramater string to screen with a newline character at the end
+  5. ReadLine(int):
+  6.   !! CURRENTLY WOKING ON IT !!
+  7ReadKey():
+  8  !! CURRENTLY WOKING ON IT !!
+  9. WriteVariable(string)
+  10.   Print the variable that's name is parameter string
+  11. WriteLineVariable(string)
+  12.   Print the variable that's name is parameter string and put a newline character at the end
 
 # Assembly.Manual Functions
-  AppendCode(assembly, code):
-    Manually appends code to given assembly
-  GetCode(assembly):
-    Returns the generated assembly code
-
-
+  1. AppendCode(assembly, code):
+  2.   Manually appends code to given assembly
+  3. GetCode(assembly):
+  4.   Returns the generated assembly code
